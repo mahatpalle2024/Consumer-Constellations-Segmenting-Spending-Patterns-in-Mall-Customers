@@ -1,4 +1,5 @@
 Consumer Constellations: Segmenting Spending Patterns in Mall Customers
+
 In an ever-shifting retail landscape, comprehending the diverse consumer expenditure patterns is critical. Segmenting shopping mall patrons according to their spending habits and demographic data is central to this analytical endeavor. This initiative relies on data-driven insights to categorize consumer types into discernible groups.
 Synopsis of Dataset
 The foundational data for this analysis comprises an array of characteristics related to mall customers, encompassing age, earnings, and a bespoke spending score that reflects purchasing tendencies. This dataset acts as a prism, revealing the diverse spending behaviors present in a retail environment.
